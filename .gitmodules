@@ -1,3 +1,6 @@
 [submodule "dsa"]
 	path = dsa
 	url = https://github.com/natiahc/dsa.git
+[submodule "low_level_design"]
+	path = low_level_design
+	url = https://github.com/natiahc/low_level_design.git
